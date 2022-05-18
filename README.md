@@ -45,8 +45,8 @@ This project was put together using create-react-app (CRA). You will not need to
 
 **File structure**
 
-- [ ] Take a look at your planned components. Create the folders and files you need for each component.
-- [ ] Leave most of them blank for now - you need to get your data from the API before you can really get these built.
+- [x] Take a look at your planned components. Create the folders and files you need for each component.
+- [x] Leave most of them blank for now - you need to get your data from the API before you can really get these built.
 
 **Fetching the Data**
 
