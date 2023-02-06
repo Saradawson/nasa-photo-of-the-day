@@ -15,7 +15,7 @@ const PhotoWraper = styled.div`
 `;
 
 const NasaIMG = styled.img`
-    width: 100%;
+    width: 50%;
     border: solid grey;
 `;
 
